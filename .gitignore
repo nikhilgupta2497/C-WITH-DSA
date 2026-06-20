@@ -1,0 +1,72 @@
+# Ignore build artifacts
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+
+# Static and dynamic libraries
+*.a
+*.lib
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+/build/
+
+# Visual Studio
+.vs/
+*.vcxproj*
+*.sln
+
+# Code::Blocks
+*.depend
+*.layout
+
+# CLion
+.idea/
+cmake-build-debug/
+
+# VSCode
+.vscode/
+.history/
+
+# MacOS
+.DS_Store
+
+# Linux
+*~
+
+# JetBrains
+/.idea
+
+# Temporary files
+*.log
+
+# Test executables
+/tests/*/bin/
+
+# Coverage
+coverage/
+*.gcda
+*.gcno
+*.gcov
+
+# Debug files
+*.dSYM/
+
+# Python (if any scripts)
+__pycache__/
+*.pyc
+
+# Others
+external/
+build/
+dist/
+
+# Ignore executables with the repo name
+C-WITH-DSA
