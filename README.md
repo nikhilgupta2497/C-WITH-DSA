@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0877-stone-game](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0877-stone-game) |
+| [2965-find-missing-and-repeated-values](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0877-stone-game) |
+| [2965-find-missing-and-repeated-values](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0877-stone-game) |
+## Hash Table
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
