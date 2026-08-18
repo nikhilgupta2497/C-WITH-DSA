@@ -36,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0877-stone-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -84,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0560-subarray-sum-equals-k) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
