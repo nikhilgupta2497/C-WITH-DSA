@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0090-subsets-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -100,4 +102,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
