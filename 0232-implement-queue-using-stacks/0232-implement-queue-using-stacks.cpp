@@ -6,22 +6,21 @@ public:
     }
     
     void push(int x) {
-        
         while(s1.size()>0){
             s2.push(s1.top());
             s1.pop();
-        }
-        s1.push(x);
+        }s1.push(x);
         while(s2.size()>0){
             s1.push(s2.top());
             s2.pop();
         }
+        
     }
     
     int pop() {
         int elementtoremove = s1.top();
         s1.pop();
-        return elementtoremove;     
+        return elementtoremove;
     }
     
     int peek() {
