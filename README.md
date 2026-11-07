@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0387-first-unique-character-in-a-string](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/3174-clear-digits) |
 ## Stack
@@ -222,4 +224,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
