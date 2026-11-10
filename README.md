@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0090-subsets-ii) |
+| [0134-gas-station](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0134-gas-station) |
 | [0239-sliding-window-maximum](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0287-find-the-duplicate-number) |
@@ -248,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0239-sliding-window-maximum) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
