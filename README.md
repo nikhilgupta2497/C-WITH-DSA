@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0622-design-circular-queue) |
 | [0877-stone-game](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0877-stone-game) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2965-find-missing-and-repeated-values](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0054-spiral-matrix) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/3174-clear-digits) |
 ## Math
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0901-online-stock-span) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/3174-clear-digits) |
 ## Bracket Sequences
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0622-design-circular-queue) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Counting
 |  |
 | ------- |
