@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Doubly-Linked List
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -296,4 +299,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0543-diameter-of-binary-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikhilgupta2497/C-WITH-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
